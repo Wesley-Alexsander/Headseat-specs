@@ -13,6 +13,9 @@ Está é uma pagina simples, onde o intuito principal é treinar HTML e CSS resp
 <p>
  <img src="./assets/vid.gif">
 </p>
+<p>
+  <a href="https://wesley-alexsander.github.io/Headseat-specs/"> See on github pages</a>
+</p>
 
 <br><br>
 
@@ -23,7 +26,7 @@ Está é uma pagina simples, onde o intuito principal é treinar HTML e CSS resp
 
 <br><br>
 
-# ​📚​ **Bibliotecas**
+# ​📚​ **Library**
 
 - <a hrf="https://fonts.google.com/">Google fonts</a>
 - <a hrf="https://remixicon.com/">Remix icon</a>
